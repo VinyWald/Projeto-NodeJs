@@ -1,0 +1,15 @@
+# Configurações do VSCode
+.vscode/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Dependências Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Pasta de build (caso exista)
+dist/
+build/
